@@ -3,4 +3,4 @@ test
 
 test project
 
-Try commit
+Taking a Coursera Data Science course
